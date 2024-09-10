@@ -2,4 +2,4 @@
 primera clase
 ## pruebas
 salieron bien desdse el remix
-##Todo bien desde git
+##todo bien desde git
